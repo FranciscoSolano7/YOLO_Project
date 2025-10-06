@@ -1,0 +1,12 @@
+# Dependencias para Visión Artificial y Detección YOLO
+ultralytics
+opencv-python
+
+# Dependencias para Procesamiento de Imagen y Lectura de QR
+pillow
+pyzbar
+
+# Dependencias Auxiliares de Python (Opcionales, pero recomendadas)
+pandas
+numpy
+tqdm
